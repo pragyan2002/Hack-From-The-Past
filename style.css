@@ -1,0 +1,28 @@
+*{
+    margin: 5;
+    padding: 0;
+}
+
+.navbar-style
+{
+    box-shadow: 0 5px 10px #e2e2e2;
+    text-transform: uppercase;
+}
+.logo
+{
+    height: 48px;
+    padding: 2ps ;
+}
+.navbar-toggle
+{
+    background: darkorange;
+}
+.icon-background
+{
+    background-color: darkorange;
+}
+
+li a
+{
+    color: black;
+}
